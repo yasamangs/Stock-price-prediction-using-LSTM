@@ -2,8 +2,12 @@
 
 a LSTM neural network has been generated with the help of keras and tensorflow libraries that can predict the time-price series of stocks in the Nasdaq market.
 
+# dataset
 
-# installation:
+The data file is a csv file in which the information inside is separated by commas. Information in the dataset is available in various Nasdaq markets for 3 consecutive years.
+
+
+# installation
 
 For running this project you need to install:
 
